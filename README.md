@@ -1,6 +1,6 @@
-# Marketing-analysis
+# Marketing Analysis using SQL
 
-Case Study - Marketing Analysis using SQL
+
 
 
 ![Screenshot 2021-06-23 at 9 48 51 PM](https://user-images.githubusercontent.com/39771193/123190084-eba5cc00-d46c-11eb-9eec-34a666787c95.png)
